@@ -14,7 +14,7 @@ For this project I utilized:
 - Python objects
 - Objects which hold state
 - Numpy arrays of state objects
-- DeepCopy to create next time step state
+- DeepCopy to create next time-step state
 - Object interaction
 - Deleting objects to free memory
 - Garbage collection
