@@ -19,3 +19,6 @@ For this project I utilized:
 - Deleting objects to free memory
 - Garbage collection
 - Multiprocessing
+- Pandas
+- Filtering
+- Pandas plotting
